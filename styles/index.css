@@ -17,12 +17,19 @@ p {
     font-size: medium;
     font-weight: bold;
     margin-left: 20px;
+    text-align: center;
   }
 
-  section{
+  /*.alignIcons{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;  
-}
+}*/
+
+.alignIcons {
+    display: flex;
+    flex-wrap: wrap;
+
+  }
