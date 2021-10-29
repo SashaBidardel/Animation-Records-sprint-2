@@ -1,0 +1,7 @@
+.newsletter {
+    background-color: #C7F8EC;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    flex-direction: column;
+}

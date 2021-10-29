@@ -1,1 +1,3 @@
-@import "./categories_styles/categories.css"
+@import "./categories_styles/categories.css";
+@import "./general_styles/general.css";
+@import "./newsletter/newsletter.css";
