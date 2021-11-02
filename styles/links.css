@@ -1,3 +1,6 @@
 @import "./categories_styles/categories.css";
 @import "./general_styles/general.css";
 @import "./newsletter/newsletter.css";
+@import "./detail_styles/detail.css";
+@import "./related_styles/related.css";
+@import "./menu_styles/menu.css";
