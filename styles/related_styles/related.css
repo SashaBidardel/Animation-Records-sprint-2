@@ -1,6 +1,24 @@
+h2 {
+   margin-left: 10px; 
+   text-align: justify;
+}
+
+.fotos_size {
+    width: 61px;
+    height: 108.53px;
+    margin-top: 100px;
+    margin-left: 5px;
+    border-style: solid;  
+    border-width: 3px;  
+    display: flex;
+    align-self: center;
+}
+
 .alignRelated {
-    width: 100%;
-    height: 400px;
-     display: flex;
-     justify-content: flex-start;
+    width: 61px;
+    height: 108.53px;
+    display: flex;
+    align-self: flex-start;
+    justify-content: left;
+    
 }

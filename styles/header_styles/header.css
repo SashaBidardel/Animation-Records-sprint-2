@@ -1,0 +1,10 @@
+.backgroundColorBlue {
+    width: 281px;
+    height: 67px;
+    background-color: #C7F8EC;
+    margin-top: 100px;
+    margin-left: 5px;
+    display: flex;
+    align-self: center;
+    flex-direction: row;
+}
