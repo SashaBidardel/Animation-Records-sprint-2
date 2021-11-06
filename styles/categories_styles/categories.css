@@ -1,3 +1,9 @@
+#sectionCategories {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .fotos_size{
     width: 170px;
     height: 110px;;
@@ -17,15 +23,10 @@
 }
 
 .alignCategories {
-    width: 60%;
+    width: 85%;
+    max-width: 800px;
     display: flex;
     /*flex-direction: row;*/
     justify-content: space-around;
     flex-wrap: wrap;
-}
-
-#sectionCategories {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
